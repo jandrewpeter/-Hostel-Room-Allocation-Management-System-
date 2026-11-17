@@ -1,0 +1,6 @@
+{
+  "name": "Northgate Halls — Hostel Room Allocation",
+  "description": "University hostel room allocation, bed capacity management, resident directory, and campus operations platform backed by Cloud SQL PostgreSQL and Spring Boot APIs.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
